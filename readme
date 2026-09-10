@@ -1,0 +1,21 @@
+passo 1 -> mkdir (nome da pasta para criar)
+
+passo 2 -> git init 
+
+passo 3 -> git brach -M main
+
+passo 4 -> touch index.html
+
+passo 5 -> code . (entrar no vscode)
+
+passo 6 -> fazer as altareções e voltar ao git bash
+
+passo 7 -> git add .  
+
+passo 8 -> git status
+
+passo 9 -> git commit -m "nome do commit"
+
+passo 10-> git push (colocar o endereço do git hub)
+
+passo 11-> git log (para ver os commits)
