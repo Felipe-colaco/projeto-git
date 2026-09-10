@@ -19,3 +19,5 @@ passo 9 -> git commit -m "nome do commit"
 passo 10-> git push (colocar o endereço do git hub)
 
 passo 11-> git log (para ver os commits)
+
+clone,fetch, pull
